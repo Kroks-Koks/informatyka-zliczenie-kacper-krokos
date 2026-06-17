@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/kacper/CLionProjects/zbiory liczb/cmake-build-debug",
+  "command": "\"D:\\CLion 2025.3.3\\bin\\mingw\\bin\\g++.exe\" -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\zbiory_liczb.dir\\main.cpp.obj -c \"C:\\Users\\kacper\\CLionProjects\\zbiory liczb\\main.cpp\"",
+  "file": "C:/Users/kacper/CLionProjects/zbiory liczb/main.cpp",
+  "output": "C:/Users/kacper/CLionProjects/zbiory liczb/cmake-build-debug/CMakeFiles/zbiory_liczb.dir/main.cpp.obj"
+}
+]
